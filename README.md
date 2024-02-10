@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deathrax2021
-- 👀 I’m interested in learning to mint NFTs on OpenSea programmatically from the web.
-- 🌱 I’m currently learning Ruby, and Ruby on Rails.
+- 👀 I’m interested in stuff.
+- 🌱 I’m currently learning.
 - 📫 How to reach me ... dnazar2020@gmail.com
 
 <!---
